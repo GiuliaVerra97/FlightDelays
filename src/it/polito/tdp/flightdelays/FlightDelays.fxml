@@ -68,7 +68,7 @@
                         <Insets left="20.0" />
                      </HBox.margin>
                   </ComboBox>
-						<Button fx:id="btnAeroportiConnessi" mnemonicParsing="false" onAction="#doTestConnessione" prefWidth="150.0" text="Test connessione">
+						<Button fx:id="btnAeroportiConnessi" disable="true" mnemonicParsing="false" onAction="#doTestConnessione" prefWidth="150.0" text="Test connessione">
 							<HBox.margin>
 								<Insets left="10.0" />
 							</HBox.margin>
